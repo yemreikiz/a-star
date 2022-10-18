@@ -1,5 +1,6 @@
 import algorithm
 
+
 def app():
     print("Hello World!")
     adjacency_list = {
